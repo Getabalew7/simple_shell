@@ -115,7 +115,7 @@ root@c698ec171c6e:/home/simple_shell#
 
 ### ✒️ Authors
 ***
-*Holberton School Students*
+*Alx SE Students*
 
 Diana Carhuamanta - [getabalew7](https://github.com/getabalew7)
 
