@@ -52,29 +52,29 @@ $
 ***
 | Files | Description |
 | --- | --- |
-| [simpleshell.h](https://github.com/CarolinaDCode/simple_shell/blob/master/simpleshell.h) | Header file. Contain all the prototype name of the functions. |
-| [AUTHORS](https://github.com/CarolinaDCode/simple_shell/blob/master/AUTHORS) | Contains the authors of the project. |
-| [man_1_simple_shell](https://github.com/CarolinaDCode/simple_shell/blob/master/man_1_simple_shell) | man page containing details about the usage of shell function.|
-| [_getline.c](https://github.com/CarolinaDCode/simple_shell/blob/master/_getline.c) | Function that gets the commands by input from the terminal.|
-| [brokentoken.c](https://github.com/CarolinaDCode/simple_shell/blob/master/brokentoken.c) | Item separating function.|
-| [call_file_help.c](https://github.com/CarolinaDCode/simple_shell/blob/master/call_file_help.c) | Functions that call the help text files of each function.|
-| [func_methods.c](https://github.com/CarolinaDCode/simple_shell/blob/master/func_methods.c) | Functions created to build the project.|
-| [func_methods2.c](https://github.com/CarolinaDCode/simple_shell/blob/master/func_methods2.c) | Continuation of functions created to elaborate the project.|
-| [get_enviroment.c](https://github.com/CarolinaDCode/simple_shell/blob/master/get_enviroment.c) | PATH manipulation function.|
-| [main.c](https://github.com/CarolinaDCode/simple_shell/blob/master/main.c) | Function that evaluates whether the command exists.|
-| [match.c](https://github.com/CarolinaDCode/simple_shell/blob/master/match.c) | Function that compares the command entered and the functions of each command.|
-| [open_file.c](https://github.com/CarolinaDCode/simple_shell/blob/master/open_file.c) | function that compares the command entered, opens and reads the files of each help command.|
-| [cd](https://github.com/CarolinaDCode/simple_shell/blob/master/cd) | Text file for reading the cd help.|
-| [exit](https://github.com/CarolinaDCode/simple_shell/blob/master/exit) | Text file for reading the exit help.|
-| [help](https://github.com/CarolinaDCode/simple_shell/blob/master/help) | Text file for reading the help help.|
-| [help-help](https://github.com/CarolinaDCode/simple_shell/blob/master/help-help) | Text file for reading the help-help help.|
-| [pwd](https://github.com/CarolinaDCode/simple_shell/blob/master/pwd) | Text file for reading the pwd help.|
+| [simpleshell.h](https://github.com/getabalew7/simple_shell/blob/master/simpleshell.h) | Header file. Contain all the prototype name of the functions. |
+| [AUTHORS](https://github.com/getabalew7/simple_shell/blob/master/AUTHORS) | Contains the authors of the project. |
+| [man_1_simple_shell](https://github.com/getabalew7/simple_shell/blob/master/man_1_simple_shell) | man page containing details about the usage of shell function.|
+| [_getline.c](https://github.com/getabalew7/simple_shell/blob/master/_getline.c) | Function that gets the commands by input from the terminal.|
+| [brokentoken.c](https://github.com/getabalew7/simple_shell/blob/master/brokentoken.c) | Item separating function.|
+| [call_file_help.c](https://github.com/getabalew7/simple_shell/blob/master/call_file_help.c) | Functions that call the help text files of each function.|
+| [func_methods.c](https://github.com/getabalew7/simple_shell/blob/master/func_methods.c) | Functions created to build the project.|
+| [func_methods2.c](https://github.com/getabalew7/simple_shell/blob/master/func_methods2.c) | Continuation of functions created to elaborate the project.|
+| [get_enviroment.c](https://github.com/getabalew7/simple_shell/blob/master/get_enviroment.c) | PATH manipulation function.|
+| [main.c](https://github.com/getabalew7/simple_shell/blob/master/main.c) | Function that evaluates whether the command exists.|
+| [match.c](https://github.com/getabalew7/simple_shell/blob/master/match.c) | Function that compares the command entered and the functions of each command.|
+| [open_file.c](https://github.com/getabalew7/simple_shell/blob/master/open_file.c) | function that compares the command entered, opens and reads the files of each help command.|
+| [cd](https://github.com/getabalew7/simple_shell/blob/master/cd) | Text file for reading the cd help.|
+| [exit](https://github.com/getabalew7/simple_shell/blob/master/exit) | Text file for reading the exit help.|
+| [help](https://github.com/getabalew7/simple_shell/blob/master/help) | Text file for reading the help help.|
+| [help-help](https://github.com/getabalew7/simple_shell/blob/master/help-help) | Text file for reading the help-help help.|
+| [pwd](https://github.com/getabalew7/simple_shell/blob/master/pwd) | Text file for reading the pwd help.|
 
 ### :neckbeard: How To Install, Compile, and Use
 ***
 First we clone the repository
 ```shell
-root@c698ec171c6e:/home# git clone https://github.com/CarolinaDCode/simple_shell.git
+root@c698ec171c6e:/home# git clone https://github.com/getabalew7/simple_shell.git
 ```
 Second we verify that the directory exists
 ```shell
@@ -117,6 +117,6 @@ root@c698ec171c6e:/home/simple_shell#
 ***
 *Holberton School Students*
 
-Diana Carhuamanta - [CarolinaDCode](https://github.com/CarolinaDCode)
+Diana Carhuamanta - [getabalew7](https://github.com/getabalew7)
 
-Geraldine Meneses - [nitaly31](https://github.com/nitaly31)
+Isheka Turay - [Isheka Turay](Isheka Turay)
